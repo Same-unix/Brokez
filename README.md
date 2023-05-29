@@ -5,4 +5,4 @@ how to use
 1. unzip the file
 2. right click App.bat and Press run as Administator
 
-click here to <a href="https://github.com/Same-unix/Brokez/raw/main/Brokez.zip">download at your own risk</a>
+click here to <a href="https://github.com/Same-unix/Brokez/raw/main/BROKEZ.zip">download at your own risk</a>
